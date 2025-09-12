@@ -6,9 +6,7 @@
 
 ---
 
-## Ikero
-
-Self-taught Fullstack Developer with **5 years** of real-world IT experience & still leveling up.  
+#Self-taught Fullstack Developer with **5 years** of real-world IT experience & still leveling up.  
 Graduated from Software Engineering Vocational School, totally hooked on tech — especially Fullstack development.  
 Love building cool websites and desktop apps, especially networking stuff like multiplayer games and real-time apps.
 
