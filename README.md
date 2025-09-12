@@ -5,16 +5,6 @@
 # <div align="center">行けろ</div>
 
 ---
-
-
-
-<div style="display: flex; align-items: center; gap: 16px;">
-  <img src="https://raw.githubusercontent.com/Lotiel-Dev/Lotiel-Dev/main/assets/kyubey.gif" height="40" />
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="675" />
-  <img src="https://raw.githubusercontent.com/Lotiel-Dev/Lotiel-Dev/main/assets/kyubey.gif" height="40" />
-</div>
-
-
 <!--
  <div id="user-content-toc">
   <ul align="left">
@@ -49,14 +39,6 @@ Feel free to reach out or connect—I'm always open to learning and collaboratin
 </div>
 -->
 
-<div style="display: flex; align-items: center; gap: 16px;">
-  <img src="https://raw.githubusercontent.com/Lotiel-Dev/Lotiel-Dev/main/assets/kyubey.gif" height="40" />
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="675" />
-  <img src="https://raw.githubusercontent.com/Lotiel-Dev/Lotiel-Dev/main/assets/kyubey.gif" height="40" />
-</div>
-
-
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lotiel-Dev/Lotiel-Dev/main/dist/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lotiel-Dev/Lotiel-Dev/main/dist/pacman-contribution-graph.svg">
@@ -83,14 +65,6 @@ Feel free to reach out or connect—I'm always open to learning and collaboratin
 
 
 
-
-
-
-<div style="display: flex; align-items: center; gap: 16px;">
-  <img src="https://raw.githubusercontent.com/Lotiel-Dev/Lotiel-Dev/main/assets/kyubey.gif" height="40" />
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="675" />
-  <img src="https://raw.githubusercontent.com/Lotiel-Dev/Lotiel-Dev/main/assets/kyubey.gif" height="40" />
-</div>
 
 
 
