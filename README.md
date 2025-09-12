@@ -13,6 +13,12 @@ I'm a Computer Engineering student passionate about technology, visual design, a
 Currently, I'm focused on building responsive and interactive web interfaces using **React**, while also expanding my knowledge in **C++** and **Python** for broader development experience.
 
 ---
+<div align="center" style="display: flex;">
+    <a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width=330 height=180/></a>
+    <a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width=330 height=180/></a>
+</div>
+
+--
 
 ##  What I'm Working On
 
@@ -62,9 +68,11 @@ Currently, I'm focused on building responsive and interactive web interfaces usi
 >  _"Always learning. Always building."_  
 > — Zhaalys
 
-
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaalys&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 ###
-
 
 ---
 
