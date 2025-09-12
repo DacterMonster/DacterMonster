@@ -49,7 +49,7 @@ Currently, I'm focused on building responsive and interactive web interfaces usi
 ---
 
 >  _"Always learning. Always building."_  
-> — Zhaalys
+> — Ikero
 
 ---
 <p align="center">
