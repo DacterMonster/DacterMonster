@@ -6,12 +6,6 @@
 
 ---
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Ikero . </h1></summary>
-    <summary><h1 style="display: inline-block">I'm a student of Informatics Engineering </h1></summary>
-  </ul>
-</div>
 
 
 <div style="display: flex; align-items: center; gap: 16px;">
