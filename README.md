@@ -51,18 +51,6 @@ Currently, I'm focused on building responsive and interactive web interfaces usi
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Lotiel-Dev/Lotiel-Dev/main/dist/pacman-contribution-graph.svg">
 </picture>
 
----
-
-##  Just for Fun
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/breakout-light.svg" />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
-
----
-
 ##  Interests
 
 - Creating clean, responsive UI designs  
