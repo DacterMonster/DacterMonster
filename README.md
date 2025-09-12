@@ -22,16 +22,6 @@ Currently, I'm focused on building responsive and interactive web interfaces usi
 
 ---
 
-##  Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,react,nextjs,nodejs,tailwind,figma,git,github,linux,ubuntu,vscode,bash,docker,mysql,mongodb,postgresql&perline=12" alt="Zhaalys skill icons" />
-  </a>
-</p>
-
----
-
 ##  GitHub Stats
 
 <div align="center">
