@@ -7,7 +7,7 @@
 
 ---
 
-##  Hello, I'm Zhaalys
+##  Hello, I'm Ikero
 
 I'm a Computer Engineering student passionate about technology, visual design, and front-end development.  
 Currently, I'm focused on building responsive and interactive web interfaces using **React**, while also expanding my knowledge in **C++** and **Python** for broader development experience.
