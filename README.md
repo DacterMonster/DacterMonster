@@ -66,7 +66,6 @@ Currently, I'm focused on building responsive and interactive web interfaces usi
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaalys&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-###
 
 ---
 
